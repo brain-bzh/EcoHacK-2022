@@ -6,3 +6,5 @@ Companion website for EcoHacK-2022
 More information on EcoHacK [here](https://acoustics.ac.uk/ecohack-2022/)
 
 # List of projects
+
+- Visualization of large ecoacoustics recordings databases
