@@ -24,3 +24,7 @@ More information on EcoHacK [here](https://acoustics.ac.uk/ecohack-2022/)
 # List of projects
 
 - Visualization of large ecoacoustics recordings databases
+- Acoustic Index Manual. Many publications call for researchers to understand acoustic indices before they apply them. While the original publications proposing the indices, and some guidelines published since, have offered descriptions of the indices, finer details are generally missing. This means that selecting appropriate indices and interpreting patterns can be difficult. This manual will offer a step-by-step breakdown of the index calculations, coupled with example simulated and real-world recordings, to aid wider understanding within ecoacoustics and beyond.
+- Interactive practioners guide to use soundscape data for undergrduate teaching (in articulate storyline)
+- Activity patterns and species-level responses of tropical insectivorous bats to land-use change: insights from the Gulf of Guinea
+- Local and landscape-scale predictors of aerial insectivorous bats in São Tomé and Príncipe
