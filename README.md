@@ -22,6 +22,7 @@ Register [here](https://docs.google.com/forms/d/e/1FAIpQLSeb7mZvoK_0fm701NiSiVj7
 More information on EcoHacK [here](https://acoustics.ac.uk/ecohack-2022/)
 
 # List of projects
+Here are the projects that have been confirmed, by participants who have already registered to EcoHacK 2022. All projects will be pitched during the first day.
 
 - Visualization of large ecoacoustics recordings databases
 - Acoustic Index Manual. Many publications call for researchers to understand acoustic indices before they apply them. While the original publications proposing the indices, and some guidelines published since, have offered descriptions of the indices, finer details are generally missing. This means that selecting appropriate indices and interpreting patterns can be difficult. This manual will offer a step-by-step breakdown of the index calculations, coupled with example simulated and real-world recordings, to aid wider understanding within ecoacoustics and beyond.
