@@ -31,3 +31,5 @@ Here are the projects that have been confirmed, by participants who have already
 - Local and landscape-scale predictors of aerial insectivorous bats in São Tomé and Príncipe
 - Developing a visualisation method to show how the acoustic space is used through time at large timescales (e.g. 1 year)
 - I will bring the recordings of AudioMoths that were set in the island of São Tomé across a gradient of habitat use (forest, palm plantation, cacao plantation, communities). The goals with the data are: 1) to detect the rat activity to estimate their use of habitat across the island, and 2) to describe the community composition of birds across habitats. The general scope of our research is to correlate rat and bird presence with rat diet to estimate their impact on native fauna.
+- Looking at bat activity and diversity in vineyards using bioacoustics. 
+- Investigating the indirect effects of ecosystem services provided by bats using bioacoustics- soundscape concept.
