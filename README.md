@@ -33,3 +33,8 @@ Here are the projects that have been confirmed, by participants who have already
 - I will bring the recordings of AudioMoths that were set in the island of São Tomé across a gradient of habitat use (forest, palm plantation, cacao plantation, communities). The goals with the data are: 1) to detect the rat activity to estimate their use of habitat across the island, and 2) to describe the community composition of birds across habitats. The general scope of our research is to correlate rat and bird presence with rat diet to estimate their impact on native fauna.
 - Looking at bat activity and diversity in vineyards using bioacoustics. 
 - Investigating the indirect effects of ecosystem services provided by bats using bioacoustics- soundscape concept.
+- Rock Ptarmigan recognition and comparison of the results with BirdNET-Analyzer. 
+- Eurasian Woodcock individual recognition
+- An easy-to-use web application offering a standardized user interface for commandline programs (BirdNET, AviaNZ etc.) including efficient selecting the audio input data, the analysis program and its parameters, managing the batch processing and storing the results. 
+- Assessing gains in biodiversity assets (birds and bats) induced by restoration actions in 18 sites in North Sweden
+- Defining new harmonised metrics to measure biodiversity assets, ecosystem functions and ecosystem services jointly across various forest types and along a restoration chronosequence. 
