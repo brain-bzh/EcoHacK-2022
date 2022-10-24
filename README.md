@@ -39,3 +39,4 @@ Here are the projects that have been confirmed, by participants who have already
 - An easy-to-use web application offering a standardized user interface for commandline programs (BirdNET, AviaNZ etc.) including efficient selecting the audio input data, the analysis program and its parameters, managing the batch processing and storing the results. 
 - Assessing gains in biodiversity assets (birds and bats) induced by restoration actions in 18 sites in North Sweden
 - Defining new harmonised metrics to measure biodiversity assets, ecosystem functions and ecosystem services jointly across various forest types and along a restoration chronosequence. 
+- Classifying Eurasian Curlew vocalisations to different call types to make inferences on productivity and predation at breeding sites
